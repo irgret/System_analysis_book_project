@@ -1,2 +1,6 @@
-# SA-project
-Implementing an online store in a book publishing house
+# Implementing an online store in a book publishing house
+Внедрение интернет-магазина в книжном издательстве. Дизайн решения (учебный проект). 
+# Мои задачи: дизайн архитектуры сайта, баз данных и интеграционные решения.
+Разработала архитектуру сайта (компонентов), архитектуру баз данных, описала требования, написала проект API.
+Использовала нотации UML, BPMN, ER-диаграммы.
+Стек: MySQL, MongoDB, ARIS, Swagger.
